@@ -1,0 +1,89 @@
+price,property_type,address,bed,bath,parking,link
+550,Apartment,"513A/160 Grote Street, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/513a-160-grote-st-adelaide-sa-5000-5000910
+425,Apartment,"313/160 Grote Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/313-160-grote-st-adelaide-sa-5000-4321232
+360,Apartment,"407/281-286 North Terrace, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/407-281-286-north-tce-adelaide-sa-5000-5000046
+300,Apartment,"16/26 South Terrace, Adelaide SA 5000",1,1,1,https://www.rent.com.au/property/16-26-south-tce-adelaide-sa-5000-4999583
+700,Apartment,"707/62 South Terrace, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/707-62-south-tce-adelaide-sa-5000-4999360
+440,Unit,"32/81 Carrington Street, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/32-81-carrington-st-adelaide-sa-5000-4999228
+500,Apartment,"20/223 North Terrace, Adelaide SA 5000",1,1,1,https://www.rent.com.au/property/20-223-north-tce-adelaide-sa-5000-4998979
+352,Apartment,"302/180 Morphett Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/302-180-morphett-st-adelaide-sa-5000-4998219
+420,Apartment,"2/7 Royal Place, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/2-7-royal-pl-adelaide-sa-5000-4998134
+,Apartment,"2409/17 Austin Street, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/2409-17-austin-st-adelaide-sa-5000-4997975
+360,Apartment,"1/21 Pulteney Street Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/1-21-pulteney-street-st-adelaide-sa-5000-4245050
+380,Unit,"38B/188 Carrington Street, Adelaide SA 5000",1,1,1,https://www.rent.com.au/property/38b-188-carrington-st-adelaide-sa-5000-4997502
+295,Unit,"8/311 South Terrace, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/8-311-south-tce-adelaide-sa-5000-4997418
+695,Apartment,"2/223 North Terrace, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/2-223-north-tce-adelaide-sa-5000-4997281
+440,Apartment,"402/102 Waymouth Street, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/402-102-waymouth-st-adelaide-sa-5000-4996804
+240,Unit,"2/79A Hindley Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/2-79a-hindley-st-adelaide-sa-5000-4996631
+255,Unit,"ROOM 3 - LEVEL 1/133 Rundle Mall, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/room-3--level-1-133-rundle-mall-adelaide-sa-5000-4996620
+650,Apartment,"813A/152-160 Grote Street, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/813a-152-160-grote-st-adelaide-sa-5000-4995579
+560,Apartment,"25/274 South Terrace, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/25-274-south-tce-adelaide-sa-5000-4994923
+425,Apartment,"26/274 South Terrace, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/26-274-south-tce-adelaide-sa-5000-4994507
+285,Apartment,"224/304 Waymouth Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/224-304-waymouth-st-adelaide-sa-5000-4994460
+510,Apartment,"2010/411-429 King William Street, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/2010-411-429-king-william-st-adelaide-sa-5000-4717948
+295,Studio,"422/247 Gouger Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/422-247-gouger-st-adelaide-sa-5000-4593715
+500,Apartment,"N1810/68 Elizabeth Street, Adelaide SA 5000",1,1,1,https://www.rent.com.au/property/n1810-68-elizabeth-st-adelaide-sa-5000-4992846
+550,Apartment,"2101/421 King William Street, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/2101-421-king-william-st-adelaide-sa-5000-4992785
+360,Apartment,"1203A.2/160 Grote Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/1203a2-160-grote-st-adelaide-sa-5000-4991765
+500,Apartment,"12/237 Wakefield Street, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/12-237-wakefield-st-adelaide-sa-5000-4991329
+440,Apartment,"46/274 South Terrace, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/46-274-south-tce-adelaide-sa-5000-4989774
+500,Apartment,"408/9 Paxtons Walk, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/408-9-paxtons-walk-adelaide-sa-5000-4989357
+470,Apartment,"2905/15 Austin Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/2905-15-austin-st-adelaide-sa-5000-4989162
+360,Apartment,"801/235-237 Pirie Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/801-235-237-pirie-st-adelaide-sa-5000-4989078
+350,Apartment,"706.1/160 Grote Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/7061-160-grote-st-adelaide-sa-5000-4989027
+356,Apartment,"6.3/242 Flinders Street, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/63-242-flinders-st-adelaide-sa-5000-4988482
+390,Apartment,"204/235-237 Pirie Street, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/204-235-237-pirie-st-adelaide-sa-5000-4987435
+400,Apartment,"1101/96 North Terrace, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/1101-96-north-tce-adelaide-sa-5000-4986970
+520,Apartment,"1000/271-281 Gouger Street, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/1000-271-281-gouger-st-adelaide-sa-5000-4142996
+,Apartment,"1104/17 Penny Place, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/1104-17-penny-pl-adelaide-sa-5000-4985534
+440,Unit,"8/177 Angas Street, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/8-177-angas-st-adelaide-sa-5000-4984981
+470,Apartment,"2012/15 Austin Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/2012-15-austin-st-adelaide-sa-5000-4983199
+460,Apartment,"15/9 East Terrace, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/15-9-east-tce-adelaide-sa-5000-4982586
+450,Apartment,"3/133 - 137 Hindley Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/3-133--137-hindley-st-adelaide-sa-5000-4981859
+670,Apartment,"1812/160 Grote Street, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/1812-160-grote-st-adelaide-sa-5000-4981599
+170,Apartment,"502/23 King William Street, Adelaide SA 5000",0,1,0,https://www.rent.com.au/property/502-23-king-william-st-adelaide-sa-5000-4870578
+,Apartment,"1105/102-110 Waymouth Street, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/1105-102-110-waymouth-st-adelaide-sa-5000-4977567
+,Apartment,"1212/15 Austin Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/1212-15-austin-st-adelaide-sa-5000-4976949
+520,Apartment,"500/271-281 Gouger Street, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/500-271-281-gouger-st-adelaide-sa-5000-4339199
+500,Apartment,"13/177 Angas Street, Adelaide SA 5000",3,1,0,https://www.rent.com.au/property/13-177-angas-st-adelaide-sa-5000-4972677
+850,Apartment,"175 Halifax Street, Adelaide SA 5000",3,3,0,https://www.rent.com.au/property/175-halifax-st-adelaide-sa-5000-4971247
+600,Apartment,"2301/421 King William Street, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/2301-421-king-william-st-adelaide-sa-5000-4968338
+740,Unit,"180 Wakefield Street, Adelaide SA 5000",3,2,2,https://www.rent.com.au/property/180-wakefield-st-adelaide-sa-5000-4290749
+630,Apartment,"1602/160 Grote Street, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/1602-160-grote-st-adelaide-sa-5000-4966049
+360,Apartment,"803A.2/160 Grote Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/803a2-160-grote-st-adelaide-sa-5000-4965976
+390,Apartment,"12/271-281 Gouger Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/12-271-281-gouger-st-adelaide-sa-5000-4965105
+240,Unit,"1/79A Hindley Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/1-79a-hindley-st-adelaide-sa-5000-4962331
+320,Apartment,"9/155 Waymouth Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/9-155-waymouth-st-adelaide-sa-5000-4959676
+540,Apartment,"South Terrace, Adelaide SA 5000",2,1,1,https://www.rent.com.au/property/south-tce-adelaide-sa-5000-2911064
+,Apartment,"303/39 Grenfell Street, Adelaide SA 5000",2,1,0,https://www.rent.com.au/property/303-39-grenfell-st-adelaide-sa-5000-4316689
+330,Apartment,"STUDIO/116 Waymouth Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/studio-116-waymouth-st-adelaide-sa-5000-4117219
+650,Apartment,"913A/160 Grote Street, Adelaide SA 5000",2,2,1,https://www.rent.com.au/property/913a-160-grote-st-adelaide-sa-5000-4914875
+650,Apartment,"3 BEDROOM/116 Waymouth Street, Adelaide SA 5000",3,2,0,https://www.rent.com.au/property/3-bedroom-116-waymouth-st-adelaide-sa-5000-4905139
+480,Apartment,"2 BEDROOM/116 Waymouth Street, Adelaide SA 5000",2,2,0,https://www.rent.com.au/property/2-bedroom-116-waymouth-st-adelaide-sa-5000-4147351
+170,Apartment,"703/23 King William Street, Adelaide SA 5000",3,1,0,https://www.rent.com.au/property/703-23-king-william-st-adelaide-sa-5000-4870576
+195,Apartment,"5.3/92 Gray Street, Adelaide SA 5000",4,1,0,https://www.rent.com.au/property/53-92-gray-st-adelaide-sa-5000-4853283
+219,Apartment,"1315/30 Victoria Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/1315-30-victoria-st-adelaide-sa-5000-4853287
+315,Apartment,"323/304 Waymouth Street, Adelaide SA 5000",1,1,0,https://www.rent.com.au/property/323-304-waymouth-st-adelaide-sa-5000-4853274
+515,Unit,"1/18 Miller Street, Unley SA 5061",3,1,2,https://www.rent.com.au/property/1-18-miller-st-unley-sa-5061-5000984
+360,Unit,"17/11 Walkerville Terrace, Gilberton SA 5081",2,1,1,https://www.rent.com.au/property/17-11-walkerville-tce-gilberton-sa-5081-4998044
+575,Apartment,"415/3 Banksia Street, Glenside SA 5065",2,2,1,https://www.rent.com.au/property/415-3-banksia-st-glenside-sa-5065-4997690
+360,Flat,"14/15 Wakefield Street, Kent Town SA 5067",2,1,1,https://www.rent.com.au/property/14-15-wakefield-st-kent-town-sa-5067-4416492
+425,Unit,"4/69 Hughes Street, Mile End SA 5031",2,1,1,https://www.rent.com.au/property/4-69-hughes-st-mile-end-sa-5031-4994883
+285,Apartment,"111/22 Wakefield, Kent Town SA 5067",1,1,0,https://www.rent.com.au/property/111-22-wakefield-na-kent-town-sa-5067-4994461
+,Unit,"11/7-9 L'estrange Street, Glenside SA 5065",2,1,1,https://www.rent.com.au/property/11-7-9-lestrange-st-glenside-sa-5065-4992084
+290,Apartment,"2/7 Wakefield Street, Kent Town SA 5067",1,1,0,https://www.rent.com.au/property/2-7-wakefield-st-kent-town-sa-5067-4990091
+420,Unit,"1/14 Miller Street, Unley SA 5061",2,1,1,https://www.rent.com.au/property/1-14-miller-st-unley-sa-5061-4989287
+350,Unit,"1/3 Croydon Road, Keswick SA 5035",2,1,1,https://www.rent.com.au/property/1-3-croydon-rd-keswick-sa-5035-4988424
+440,Unit,"1/27A Joslin Street, Wayville SA 5034",3,1,2,https://www.rent.com.au/property/1-27a-joslin-st-wayville-sa-5034-4988220
+490,Apartment,"55/220 Greenhill Road, Eastwood SA 5063",1,1,1,https://www.rent.com.au/property/55-220-greenhill-rd-eastwood-sa-5063-4988140
+420,Unit,"10/311 Young Street, Wayville SA 5034",3,1,1,https://www.rent.com.au/property/10-311-young-st-wayville-sa-5034-3964961
+420,Unit,"3/1A Grant Avenue, Rose Park SA 5067",1,1,1,https://www.rent.com.au/property/3-1a-grant-ave-rose-park-sa-5067-4535282
+310,Unit,"3/100 Robsart Street, Parkside SA 5063",1,1,1,https://www.rent.com.au/property/3-100-robsart-st-parkside-sa-5063-4982699
+575,Apartment,"26/100 Rose Terrace, Wayville SA 5034",3,2,2,https://www.rent.com.au/property/26-100-rose-tce-wayville-sa-5034-4980950
+500,Apartment,"113/3 Banksia Street, Glenside SA 5065",1,1,1,https://www.rent.com.au/property/113-3-banksia-st-glenside-sa-5065-4976894
+595,Apartment,"402/3 Banksia Street, Glenside SA 5065",2,2,1,https://www.rent.com.au/property/402-3-banksia-st-glenside-sa-5065-4976970
+530,Apartment,"111/3 Banksia Street, Glenside SA 5065",2,1,1,https://www.rent.com.au/property/111-3-banksia-st-glenside-sa-5065-4554708
+500,Apartment,"3/75 Wellington Square, North Adelaide SA 5006",2,1,1,https://www.rent.com.au/property/3-75-wellington-sq-north-adelaide-sa-5006-4966865
+390,Unit,"11/15 Wakefield Street, Kent Town SA 5067",2,1,1,https://www.rent.com.au/property/11-15-wakefield-st-kent-town-sa-5067-4965749
+,Apartment,"5B Avon Lane, Gilberton SA 5081",2,1,1,https://www.rent.com.au/property/5b-avon-lane-gilberton-sa-5081-4943870
+650,Apartment,North Adelaide SA 5006,3,3,1,https://www.rent.com.au/property/north-adelaide-sa-5006-4340394
